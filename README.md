@@ -36,7 +36,7 @@ This project is licensed under the [MIT License](LICENSE). You are free to use, 
 
 ## 🌟 About Me
 
-Hi there! I'm **Yusuf Ryan** — an aspiring Full-Stack Data Scientist with a passion for turning data into actionable insights and real business value.
+Hi there! I'm **Yusuf Ryan** — a fresh graduate and aspiring Full-Stack Data Scientist with a passion for turning data into actionable insights and real business value.
 
 My journey started in data analysis, where I built a strong foundation in SQL, Python, and BI tools by working on end-to-end projects involving data cleaning, exploratory analysis, KPI design, and interactive dashboard development. Over time, I expanded into machine learning, developing a deeper understanding of predictive modeling, statistical thinking, and data-driven problem solving.
 
@@ -45,4 +45,6 @@ Currently, I’m strengthening my skills across the full data stack — from ana
 I’m driven by curiosity, continuous learning, and the ambition to design data solutions that are not only technically sound but also impactful and decision-focused.
 
 If you’re interested in collaborating, discussing ideas, or just talking data — you’re always welcome to connect 🚀
+
+
 
